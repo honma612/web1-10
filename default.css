@@ -13,22 +13,22 @@ body{
 header{
   padding: 10px;
   text-align: center;
-  background-color: red;
+  background-color: pink;
 }
 
 section{
   padding: 10px;
-  background-color: orange;
+  background-color: red;
 }
 
 aside{
   padding: 10px;
-  background-color: green;
+  background-color: pink;
 }
 
 footer{
   padding: 10px;
-  background-color: blue;
+  background-color: red;
   text-align: center;
 }
 
